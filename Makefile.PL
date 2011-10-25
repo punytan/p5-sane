@@ -1,3 +1,5 @@
+BEGIN { require 5.010 }
+
 use inc::Module::Install;
 name 'sane';
 all_from 'lib/sane.pm';
