@@ -1,5 +1,5 @@
 package sane;
-our $VERSION = '0.02';
+our $VERSION = '0.99';
 
 sub import {
     require strict;
